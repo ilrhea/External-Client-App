@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppOauthSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <commaSeparatedOauthScopes>Api, Web, OpenID</commaSeparatedOauthScopes>
+    <externalClientApplication>ecaViaMetadata</externalClientApplication>
+    <label>ECA via Metadata Oauth Settings</label>
+    <oauthLink>00DdM00000A04KS:888dM0000003Snl</oauthLink>
+</ExtlClntAppOauthSettings>
